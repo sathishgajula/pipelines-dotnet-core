@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pipelines-dotnet-core", "pipelines-dotnet-core.csproj", "{E4EF720D-7559-40EB-BFE9-9393BDF5210E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4EF720D-7559-40EB-BFE9-9393BDF5210E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EF720D-7559-40EB-BFE9-9393BDF5210E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EF720D-7559-40EB-BFE9-9393BDF5210E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EF720D-7559-40EB-BFE9-9393BDF5210E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3761E7-DB17-4280-BCD2-E87BF9491ACA}
+	EndGlobalSection
+EndGlobal
